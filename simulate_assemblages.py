@@ -1,4 +1,6 @@
-"""Generate simulated assemblages and compare 
+"""Generate simulated assemblages and compare simulation vs. observed artifacts.
+
+Author: Andrew Cabaniss
 """
 
 import numpy as np
