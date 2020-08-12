@@ -1,6 +1,8 @@
 # py-simulated-assemblage
 Generate simulated assemblages with the same artifact density and frequency as observed assemblages to estimate typicality.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acabaniss/py-simulated-assemblage/master?filepath=Simulated_assemblages.ipynb)
+Click to launch in Binder, a remote Jupyter environment, to see the module in action. 
 
 ## About
 This code takes artifact distributions broken down by categories (types, ware, size, traces, preservation, or other discrete categories) and generates statistically similar assemblages. These assemblages then enable the typicality of a distribution to be assessed, i.e. how different is the observed assemblage from statistically similar assemblages?
